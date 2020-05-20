@@ -1,0 +1,10 @@
+//.gitignore
+
+# practice file
+calculator.js
+
+# Keys or password
+.env
+
+# not yet
+weather.js
